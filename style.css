@@ -1,0 +1,38 @@
+body{
+    margin: 0% auto;
+    width: 90%;
+    max-width: 900px;
+    text-align: justify;
+    
+}
+#pic{
+    float:right;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: lightblue;
+    padding: 1em;
+}
+.resume{
+    background-color: skyblue;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+.name{
+    text-size-adjust: 30px;
+}
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+    width: auto;
+}
+h2{
+    text-underline-position: below;
+}
+.tab {
+    display: inline-block;
+    margin-left: 4em;
+}
